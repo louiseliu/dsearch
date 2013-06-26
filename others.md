@@ -24,6 +24,7 @@
     
     </fieldType>
 
+
 就无法使用，
 
 解决方案 https://code.google.com/p/ik-analyzer/issues/detail?id=104
